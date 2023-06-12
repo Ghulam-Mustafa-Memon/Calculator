@@ -14,7 +14,7 @@ buttons.forEach(button => {
             input.value = string
         }
         else if (e.target.innerHTML === "AC") {
-            let string = ""
+            string = ""
             input.value = string
         }
         else {
